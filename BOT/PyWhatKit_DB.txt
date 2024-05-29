@@ -1,0 +1,20 @@
+Date: 24/5/2024
+Time: 12:13
+Phone Number: +59898301039
+Message: Write the message here
+--------------------
+Date: 24/5/2024
+Time: 12:19
+Group ID: FkBVtH3j40dL28ZfwUboqG
+Message: Funciona correctamente
+--------------------
+Date: 24/5/2024
+Time: 15:1
+Phone Number: +59898301039
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 24/5/2024
+Time: 15:3
+Phone Number: +59892157716
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
